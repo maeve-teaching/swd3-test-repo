@@ -1,3 +1,10 @@
+# The hypot calculator
+
+A simple Python package to calculate the hypotenuse of a right-angled triangle using the Pythagorean theorem.
+
+
+
+---
 # The Ultimate Python Project Template
 
 You can create your own version of this repository by clicking the `Use Template` option.
